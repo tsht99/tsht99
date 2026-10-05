@@ -1,11 +1,11 @@
-# Hi, I'm tsht99 👋
+# tsht99
 
 Webエンジニア。
 
 TypeScript を中心に、Web アプリケーションの設計・実装・テスト・運用まで取り組んでいます。  
 特に、業務ルールをコード上の境界として整理すること、変更に耐えられる設計、自動テストや開発ルールによる品質保証に関心があります。
 
-## Tech
+## 技術スタック
 
 - **Language:** TypeScript
 - **Frontend:** React / Next.js, Vue.js
@@ -14,7 +14,7 @@ TypeScript を中心に、Web アプリケーションの設計・実装・テ�
 - **Testing:** Vitest, Playwright, Testcontainers
 - **Other:** AWS, Vercel, GitHub Actions, Sentry
 
-## Featured Project
+## 主な成果物
 
 ### [TimeCard](https://github.com/tsht99/time-card-portfolio)
 
@@ -23,7 +23,7 @@ TypeScript を中心に、Web アプリケーションの設計・実装・テ�
 
 スタッフの打刻だけでなく、管理者による勤怠訂正・取消、変更履歴、時給履歴、給与見込みまで扱います。
 
-#### 特に見ていただきたいところ
+#### 特に見ていただきたいポイント
 
 - **Modular Monolith**
   - Users / Access、Attendance、Payroll / Hourly Wage を業務境界として分離
@@ -46,7 +46,7 @@ TypeScript を中心に、Web アプリケーションの設計・実装・テ�
 
 から確認できます。
 
-## What I value
+## 開発で大切にしていること
 
 機能を実装して終わりではなく、要件・設計・テスト・デプロイ・運用まで含めて、  
 「なぜこの設計にしたのか」を説明できるソフトウェア開発を大切にしています。
