@@ -7,12 +7,12 @@ TypeScript を中心に、Web アプリケーションの設計・実装・テ�
 
 ## 技術スタック
 
-- **Language:** TypeScript
-- **Frontend:** React / Next.js, Vue.js
-- **Backend:** Next.js Server Actions, NestJS
-- **Database:** PostgreSQL, Drizzle ORM
-- **Testing:** Vitest, Playwright, Testcontainers
-- **Other:** Vercel, GitHub Actions, Sentry
+### 業務経験
+
+- **言語:** TypeScript
+- **フロントエンド:** Vue.js, Element Plus
+- **バックエンド:** NestJS, TypeORM
+- **データベース:** PostgreSQL, MongoDB
 
 ## 主な成果物
 
