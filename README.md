@@ -12,7 +12,7 @@ TypeScript を中心に、Web アプリケーションの設計・実装・テ�
 - **Backend:** Next.js Server Actions, NestJS
 - **Database:** PostgreSQL, Drizzle ORM
 - **Testing:** Vitest, Playwright, Testcontainers
-- **Other:** AWS, Vercel, GitHub Actions, Sentry
+- **Other:** Vercel, GitHub Actions, Sentry
 
 ## 主な成果物
 
